@@ -1,0 +1,3 @@
+/home/acx/C-language-classic-100-cases/04/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/acx/C-language-classic-100-cases/04/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/acx/C-language-classic-100-cases/04/cmake-build-debug/CMakeFiles/04.dir
